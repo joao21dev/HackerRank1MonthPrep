@@ -1,4 +1,4 @@
-//HackerRank challenge 03 Sparse Arrays
+//HackerRank challenge 05 Lonely Integer
 //Given an array of integers, where all elements but one occur twice, find the unique element.
 
 function lonelyinteger(a) {
